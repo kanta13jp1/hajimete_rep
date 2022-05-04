@@ -1,0 +1,1 @@
+web: gunicorn hajimete_pj.wsgi
